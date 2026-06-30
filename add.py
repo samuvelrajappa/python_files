@@ -1,3 +1,4 @@
+print("This is a program to add two numbers in a loop and store the sum in a list.")
 n=int(input("Enter the Length of loop: "))
 sum=[]
 for i in range(n):
